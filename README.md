@@ -1,2 +1,2 @@
-# Proyecto_CM
-P02 - Uso de CM
+Proyecto de prueba para Configuration Management
+Autor: Elias Uriel
