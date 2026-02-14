@@ -1,2 +1,1 @@
-Proyecto de prueba para Configuration Management
-Autor: Elias Uriel
+Versión 2 — Se agregan cambios
